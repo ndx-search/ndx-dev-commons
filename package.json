@@ -1,0 +1,29 @@
+{
+  "name": "ndx-dev-commons",
+  "version": "1.0.0-beta.0",
+  "description": "Development files for ndx library",
+  "files": [
+    "tsconfig.checks.json",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Boris Kaul",
+    "email": "localvoid@gmail.com",
+    "url": "https://github.com/localvoid"
+  },
+  "keywords": [
+    "ndx"
+  ],
+  "homepage": "https://github.com/ndx-search/ndx-dev-commons",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ndx-search/ndx-dev-commons"
+  },
+  "bugs": {
+    "url": "https://github.com/ndx-search/ndx-dev-commonsissues"
+  },
+  "github": "https://github.com/ndx-search/ndx-dev-commons"
+}
