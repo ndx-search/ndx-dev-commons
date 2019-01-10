@@ -3,8 +3,10 @@
   "version": "1.0.0-beta.0",
   "description": "Development files for ndx library",
   "files": [
+    "tsconfig.build.json",
     "tsconfig.checks.json",
-    "src",
+    "tsconfig.json",
+    "tslint.json",
     "README.md",
     "LICENSE"
   ],
